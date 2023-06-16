@@ -17,3 +17,19 @@ body {
 	background-size: cover;
 	border-radius: 5px;
 }
+
+h1,h2, h5, h6 {
+	font-weight: 700;
+}
+
+.second-image {
+	background-image: url(./images/photo-2.jpg);
+	background-position: center;
+	background-size: cover;
+	border-radius: 5px;
+}
+
+#google_map {
+	height: 400px;
+	width: 500px;
+}
