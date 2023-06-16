@@ -1,4 +1,6 @@
-
+html {
+	scroll-behavior: smooth;
+}
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -18,8 +20,12 @@ body {
 	border-radius: 5px;
 }
 
-h1,h2, h5, h6 {
+h2, h5, h6 {
 	font-weight: 700;
+}
+
+h1, #logo {
+	font-family: 'Water Brush', cursive;
 }
 
 .second-image {
